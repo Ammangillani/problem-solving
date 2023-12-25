@@ -4,12 +4,10 @@ let i = 3;
 
 // console.log();
 
+function aws() {
+  for (let i = 10; i < 20; i++) {
+    return "amman";
+  }
 
-    function aws {
-        for (let i =10;i <20 ; i++){
-
-            return "amman"
-        }
-        
+  console.log(aws);
 }
-
